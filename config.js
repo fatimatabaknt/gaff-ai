@@ -11,7 +11,7 @@ global.AIRich = AIRich;
 global.pairingNumber = 212721422388;
 global.owner = [
   ['212721422388', 'Radwan Tawfiq', true],
-  ['', 'Owner 2', true],
+  ['', 'Owner 1', true],
 ];
 
 global.namebot = 'gaff ai';
